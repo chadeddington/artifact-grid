@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
-    "grid-item": "jshcrowthe/grid-item",
+    "grid-item": "chadeddington/grid-item",
     "layout": "Polymer/layout",
     "iron-selector": "PolymerElements/iron-selector#~1.0.7"
   },
